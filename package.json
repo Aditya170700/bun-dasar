@@ -1,6 +1,6 @@
 {
   "name": "bun-dasar",
-  "module": "index.js",
+  "module": "index.ts",
   "type": "module",
   "devDependencies": {
     "@types/bun": "latest"
